@@ -5,9 +5,16 @@
 
 Website created using [**Jekyll Theme Chirpy**][chirpy].
 
-To update use this command
+To update jekyll:
 ```console
 bundle update jekyll-theme-chirpy
+```
+
+To update website:
+```console
+git add --all
+git commit -m "MESSAHE_HERE"
+git push -u origin main
 ```
 
 ## Documentation
