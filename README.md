@@ -13,7 +13,7 @@ bundle update jekyll-theme-chirpy
 To update website:
 ```console
 git add --all
-git commit -m "MESSAHE_HERE"
+git commit -m "MESSAGE_HERE"
 git push -u origin main
 ```
 
