@@ -15,9 +15,9 @@ timezone: America/Chicago
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Cyber Security Journey                         # the main title
+title: William Nash                         # the main title
 
-tagline: Blog for my journey through Cyber Security   # it will display as the sub-title
+tagline: A place for write ups for different challenges    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
