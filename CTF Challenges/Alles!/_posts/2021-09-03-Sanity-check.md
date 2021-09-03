@@ -2,7 +2,7 @@
 layout: post
 title: Sanity-Check
 date: 2021-09-03 01:11:00 -17
-categories: ['Alles!']
+categories: ['CTF Challenges','Alles!']
 tags: ['CTF']
 ---
 
